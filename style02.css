@@ -4,6 +4,8 @@
     margin: 5px;
     width: 100px;
     height: 100px;
+    padding: 10px;
+    border: solid 1px;
 }
 
 .list{
